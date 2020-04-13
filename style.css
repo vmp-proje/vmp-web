@@ -32,8 +32,34 @@
 	border-width: 2px;
 	border-color: #212121;
 }
+#paketalani
+{	
+	background-color:#212121
+	width:800px;
+	height:400px;
+	margin-right: auto;
+    margin-left: auto;
+}	
+	
+	
+#paket1
+{
+	background-color:#CBC1BB;
+	width:250px;
+	height:400px;
+	margin: 100px;
+}
+#paket2
+{
+	background-color:#CBC1BB;
+	width:250px;
+	height:400px;
+	margin-left:440px;
+	margin-bottom:0px;
+	margin-top:-440px;
+}
 
-ul 
+ul
 {
 	list-style-type: none;
     overflow: hidden;
@@ -45,7 +71,7 @@ ul
 	
 }
 	
-li 
+li
 {
     float: none;
 	display:inline-block;
@@ -61,7 +87,7 @@ li a
     padding:12px 14px;
     
 }
-ul 
+ul
 {
     list-style-type: none;
     overflow: hidden;
@@ -89,7 +115,7 @@ li a:hover
 {
     background-color: #3d3d29;
 }
-ul 
+ul
 {
     list-style-type: none;
     margin: 0;
@@ -132,13 +158,154 @@ li a:hover:not(.active)
 	background-color:#CBC1BB;
 }
 	
+h1
+{
 	
+	padding:20px;
+	color:white;
+	position:center;
+	font-size: 52px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:200px;
+	margin-top:-350px;
+	font-family: "Verdana";
+	z-index:2;
+}
+#reklamyazi
+{
+	color:black;
+	text-align:center;
+	margin-top:40px;
+	padding:10px;
 	
+}
+#cizgi
+{
+	color:brown;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+#orta
+{
+	text-align:center;
+	margin-top:40px;
+	padding:30px;
+	text-size:18px;
+}
+
+
+.myButton 
+{
+	background-color:#44c767;
+	border-radius:21px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:20px 46px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:10px;
+}
+#myButton_bireysel 
+{
+	background-color:#44c767;
+	border-radius:21px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:20px 46px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+	margin-left:20px;
+	margin-top:57px;
+	margin-bottom:10px;
+}
+#myButton_bireysel:hover 
+{
+	background-color:#5cbf2a;
+}
+#myButton_bireysel:active 
+{
+	position:relative;
+	top:1px;
+}
+
+.myButton:hover 
+{
+	background-color:#5cbf2a;
+}
+.myButton:active 
+{
+	position:relative;
+	top:1px;
+}
 	
-	
-	
-	
-	
+h3
+{
+	padding:20px;
+	color:white;
+	text-align:center;
+	font-size: 22px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:120px;
+	margin-bottom:50px;
+	font-family: "Verdana";
+}
+#imgsize
+{
+margin-left:auto;
+margin-right:auto;
+height:400px;
+width:800px;	
+opacity: 0.3;	
+}		
+		
+#myButton_reklam 
+{
+	background-color:#44c767;
+	border-radius:21px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:20px 46px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+	margin-left:20px;
+	margin-top:-60px;
+	margin-bottom:10px;	
+	opacity: 0.8;	
+}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	
 	
 	
