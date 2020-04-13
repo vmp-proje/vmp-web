@@ -1,0 +1,146 @@
+#backimage
+{
+	background-image: url('bg_image.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+#all
+{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#212121;
+}
+#logo
+{
+	width:800px;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:red;
+	position:left;
+	color:white;
+}
+#menu
+{
+	width:800 px;
+	height:50 px;
+	margin-left:auto;
+	margin-right:auto;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #212121;
+}
+
+ul 
+{
+	list-style-type: none;
+    overflow: hidden;
+	width:800px;
+	border-left: 1px solid white;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	float:left;
+	
+}
+	
+li 
+{
+    float: none;
+	display:inline-block;
+	border-right: 1px solid white;
+	width:195px;
+	text-align:center;
+	
+}
+
+li a 
+{
+    display:inline-block;
+    padding:12px 14px;
+    
+}
+ul 
+{
+    list-style-type: none;
+    overflow: hidden;
+	width:800px;
+}
+li 
+{
+    float: none;
+	display:inline-block;
+}
+
+li a 
+{
+    display: inline-block;
+    padding:14px 18px;
+    color:white;
+    text-decoration:none; 
+	float: none;
+}
+li a:hover
+{
+    
+}
+.aktif 
+{
+    background-color: #3d3d29;
+}
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	width:796px;
+}	
+
+li 
+{
+    float: none;
+}
+
+li a 
+{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) 
+{
+
+    background-color: #111;
+}
+
+.active 
+{
+   
+}
+#kayitformu
+{
+	width:200px;
+	padding:20px;
+	padding-bottom:0px;
+	margin-top:60px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#CBC1BB;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
